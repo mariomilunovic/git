@@ -1,12 +1,12 @@
 <?php
 echo "index index";
 
-echo "changes for stash"
+echo "changes for stash";
 
 
-echo "changes for remote"
+echo "changes for remote";
   
-  echo "changes for fetch"
+echo "changes for fetch";
 
 ?>
 
