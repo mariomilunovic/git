@@ -5,6 +5,8 @@ echo "changes for stash"
 
 
 echo "changes for remote"
+  
+  echo "changes for fetch"
 
 ?>
 
